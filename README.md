@@ -18,3 +18,6 @@ reorder patterns across 5 product categories and 6 suppliers.
 
 ## Tools Used
 Power BI Desktop, DAX, Excel
+
+## Dashboard Preview
+<img width="1317" height="711" alt="dashboard" src="https://github.com/user-attachments/assets/ebea12e7-25d8-47a1-9e63-149b0d07bf50" />
